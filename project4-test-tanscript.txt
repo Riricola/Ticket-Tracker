@@ -1,0 +1,715 @@
+Script started on 2023-04-28 21:08:07-05:00 [TERM="xterm-256color"
+TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+
+********Test 1***********
+[?2004hordazalm@mauchly:project4-dir$ exit./project4 
+[?2004lHello! This program will create, assign, and complete the tickets 
+you enter. Start by choosing one of the options below.
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 1
+
+Enter Company Name: tesla
+Enter Problem: tire
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 2
+
+Change the technician's name: 
+alma
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 3
+
+Enter ticket number: 1
+
+Ticket number 1 has been completed 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 4
+
+There are no tickets. 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 5
+
+There are no tickets. 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 6
+
+Ticket Number: 1 
+Company Identifier: tesla 
+Problem: tire 
+Status: completed 
+Technician Name: alma 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 7
+
+Thank you for working on the tickets, have a nice day! :)
+
+
+********Test 2***********
+
+[?2004hordazalm@mauchly:project4-dir$ ./project4 
+[?2004lHello! This program will create, assign, and complete the tickets 
+you enter. Start by choosing one of the options below.
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: j
+
+Invalid Option - Try Again!
+
+
+********Test 3***********
+
+[?2004hordazalm@mauchly:project4-dir$ ./project4 
+[?2004lHello! This program will create, assign, and complete the tickets 
+you enter. Start by choosing one of the options below.
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 1
+
+Enter Company Name: tesla
+Enter Problem: tire
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 4
+
+Ticket Number: 1 
+Company Identifier: tesla 
+Problem: tire 
+Status: new 
+Technician Name: unassigned 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 1
+
+Enter Company Name: apple
+Enter Problem: screen
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 4
+
+Ticket Number: 1 
+Company Identifier: tesla 
+Problem: tire 
+Status: new 
+Technician Name: unassigned 
+
+Ticket Number: 2 
+Company Identifier: apple 
+Problem: screen 
+Status: new 
+Technician Name: unassigned 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 1
+
+Enter Company Name: samsung
+Enter Problem: noise
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 4
+
+Ticket Number: 1 
+Company Identifier: tesla 
+Problem: tire 
+Status: new 
+Technician Name: unassigned 
+
+Ticket Number: 2 
+Company Identifier: apple 
+Problem: screen 
+Status: new 
+Technician Name: unassigned 
+
+Ticket Number: 3 
+Company Identifier: samsung 
+Problem: noise 
+Status: new 
+Technician Name: unassigned 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 7
+
+Thank you for working on the tickets, have a nice day! :)
+
+
+********Test 4***********
+[?2004hordazalm@mauchly:project4-dir$ ./project4 
+[?2004lHello! This program will create, assign, and complete the tickets 
+you enter. Start by choosing one of the options below.
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 1
+
+Enter Company Name: tesla
+Enter Problem: tire
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 1
+
+Enter Company Name: apple
+Enter Problem: screen
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 1
+
+Enter Company Name: samsung
+Enter Problem: noise
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 2
+
+Change the technician's name: 
+alma
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 4
+
+Ticket Number: 2 
+Company Identifier: apple 
+Problem: screen 
+Status: new 
+Technician Name: unassigned 
+
+Ticket Number: 3 
+Company Identifier: samsung 
+Problem: noise 
+Status: new 
+Technician Name: unassigned 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 5
+
+Ticket Number: 1 
+Company Identifier: tesla 
+Problem: tire 
+Status: assigned 
+Technician Name: alma 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 2
+
+Change the technician's name: 
+ya  maria
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 4
+
+Ticket Number: 3 
+Company Identifier: samsung 
+Problem: noise 
+Status: new 
+Technician Name: unassigned 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 5
+
+Ticket Number: 1 
+Company Identifier: tesla 
+Problem: tire 
+Status: assigned 
+Technician Name: alma 
+
+Ticket Number: 2 
+Company Identifier: apple 
+Problem: screen 
+Status: assigned 
+Technician Name: maria 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 2
+
+Change the technician's name: 
+yas z
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 4
+
+There are no tickets. 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 5
+
+Ticket Number: 1 
+Company Identifier: tesla 
+Problem: tire 
+Status: assigned 
+Technician Name: alma 
+
+Ticket Number: 2 
+Company Identifier: apple 
+Problem: screen 
+Status: assigned 
+Technician Name: maria 
+
+Ticket Number: 3 
+Company Identifier: samsung 
+Problem: noise 
+Status: assigned 
+Technician Name: yaz 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 7
+
+Thank you for working on the tickets, have a nice day! :)
+
+
+********Test 5***********
+
+[?2004hordazalm@mauchly:project4-dir$ ./project4 
+[?2004lHello! This program will create, assign, and complete the tickets 
+you enter. Start by choosing one of the options below.
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 1
+
+Enter Company Name: tesla
+Enter Problem: tie re
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 1
+
+Enter Company Name: apple
+Enter Problem: samsung       screen
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 1
+
+Enter Company Name: t samsung
+Enter Problem: noise
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 2
+
+Change the technician's name: 
+alma
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 2
+
+Change the technician's name: 
+maria
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 2
+
+Change the technician's name: 
+yas z
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 3
+
+Enter ticket number: 2
+
+Ticket number 2 has been completed 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 4
+
+There are no tickets. 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 5
+
+Ticket Number: 1 
+Company Identifier: tesla 
+Problem: tire 
+Status: assigned 
+Technician Name: alma 
+
+Ticket Number: 3 
+Company Identifier: samsung 
+Problem: noise 
+Status: assigned 
+Technician Name: yaz 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 6
+
+Ticket Number: 2 
+Company Identifier: apple 
+Problem: screen 
+Status: completed 
+Technician Name: maria 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 3
+
+Enter ticket number: 3
+
+this is before the while loopTicket number 3 has been completed 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 4
+
+There are no tickets. 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 5
+
+Ticket Number: 1 
+Company Identifier: tesla 
+Problem: tire 
+Status: assigned 
+Technician Name: alma 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 6
+
+Ticket Number: 2 
+Company Identifier: apple 
+Problem: screen 
+Status: completed 
+Technician Name: maria 
+
+Ticket Number: 3 
+Company Identifier: samsung 
+Problem: noise 
+Status: completed 
+Technician Name: yaz 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 7
+
+Thank you for working on the tickets, have a nice day! :)
+
+
+********Test6***********
+
+[?2004hordazalm@mauchly:project4-dir$ ./project4 
+[?2004lHello! This program will create, assign, and complete the tickets 
+you enter. Start by choosing one of the options below.
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 4
+
+There are no tickets. 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 5
+
+There are no tickets. 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 6
+
+There are no tickets. 
+
+Options Available: 
+1 - Create a new tracking ticket
+2 - Assign a new ticket to a technician for handeling
+3 - Mark a ticket complete
+4 - Print a list of new tickets
+5 - Print a list of assigned tickets
+6 - Print a list of completed tickets
+7 - Exit the program
+Enter desired option: 7
+
+Thank you for working on the tickets, have a nice day! :)
+[?2004hordazalm@mauchly:project4-dir$ exit
+[?2004lexit
+
+Script done on 2023-04-28 21:16:54-05:00 [COMMAND_EXIT_CODE="0"]
